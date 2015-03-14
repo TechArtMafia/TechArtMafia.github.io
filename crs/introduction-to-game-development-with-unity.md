@@ -2,9 +2,9 @@
 
 This is the wiki for the MakerHaus class __Introduction to Game Development With Unity__. This is a paper-free version of course notes along with links to important resources and downloadable content.
 
-You'll want to check out [what you'll need to bring](crs/what-you-ll-need.md). 
+You'll want to check out [what you'll need to bring](what-you-ll-need.md). 
 
-The [Course Description](crs/course-description.md) page covers the basics of what the class is about. The [Course Outline](crs/course-outline.md) page contains lines to the notes for each week of the 6-week session.  There's also a page of [useful resources](crs/resources--2.md) which can point you at online documentation and Q/A forums. If you're trying to learn all the buzzwords there's a [glossary](crs/glossary.md) of common Unity terms
+The [Course Description](course-description.md) page covers the basics of what the class is about. The [Course Outline](course-outline.md) page contains lines to the notes for each week of the 6-week session.  There's also a page of [useful resources](resources--2.md) which can point you at online documentation and Q/A forums. If you're trying to learn all the buzzwords there's a [glossary](glossary.md) of common Unity terms
 
 Shared course files are hosted at [this Dropbox page](https://www.dropbox.com/sh/131l92096teyrch/WRH9YI9oyY).
 
