@@ -11,6 +11,7 @@ def replace_links(input):
 			target = target.replace("glossary#", "glossary.md#")
 		else:
 			target +='.md'		
+	target = target.replace(".md.md", ".md")
 	return link + "(" + target + ")"
 	
 
