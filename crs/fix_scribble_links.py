@@ -7,7 +7,10 @@ url = re.compile("http.*", re.I)
 def replace_links(input):
 	link, _, target, __ =  input.groups()
 	if not url.search(target) or target.endswith(".md"):
-		target +='.md'		
+		if 'glossary' in target:
+			target = target.replace("glossary#", "glossary.md#")
+		else:
+			target +='.md'		
 	return link + "(" + target + ")"
 	
 
