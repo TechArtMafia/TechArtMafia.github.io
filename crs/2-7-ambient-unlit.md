@@ -14,7 +14,7 @@ Many shaders also all you to set an object to be 'self illuminated' or 'emissive
 
 Self illumination can be controlled by textures or be applied to whole models. It's very commonly used for things like effects and user interfaces (glowing arrows, hit boxes and so on) 
 
-[back](2-6-reflectivity) [next](2-8-shaders-materials)
+[back](2-6-reflectivity.md) [next](2-8-shaders-materials.md)
 
 Lighting links:
 

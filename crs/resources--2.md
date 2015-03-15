@@ -52,7 +52,7 @@ A free 3d modeling program from Google.  It can export models which Unity can di
 
 ###[Blender](http://www.blender.org) 
 ![blender](http://wiki.blender.org/uploads/thumb/d/d3/Blender25withbbb.jpg/300px-Blender25withbbb.jpg)<br>
-A free, full-featured modeling and animation program that competes with professional tools.  Blender models can be exported into [FBX](Glossary/#FBX) format for use in Unity.  Blender is available for Windows, Linux and OSX.
+A free, full-featured modeling and animation program that competes with professional tools.  Blender models can be exported into [FBX](Glossary/#FBX.md) format for use in Unity.  Blender is available for Windows, Linux and OSX.
 
 ###[CGTextures.com](http://www.cgtextures.com/) 
 ![cgtextures](http://maxcdn.webappers.com/img/2008/06/cg-textures.png)

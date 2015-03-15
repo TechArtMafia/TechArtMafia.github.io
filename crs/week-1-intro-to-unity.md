@@ -26,12 +26,12 @@ Intro to Unity
 Unity Building Blocks
 =============================
    * All Unity games are made up of a fairly small set of pieces:
-     * [GameObjects](glossary#gameobject)
+     * [GameObjects](glossary.md#gameobject)
        * These are physical objects with a position in the 3d world
        * Can be placed by hand or created ("instantiated") in the game
-       * GameObjects can contain other GameObjects in a [parent-child](glossary#parent) relationship
-       * GameObjects can have attached [components](glossary#component) which control their behavior or appearance.
-     * [Components](glossary#component) are small pieces of program code attached to GameObjects
+       * GameObjects can contain other GameObjects in a [parent-child](glossary.md#parent) relationship
+       * GameObjects can have attached [components](glossary.md#component) which control their behavior or appearance.
+     * [Components](glossary.md#component) are small pieces of program code attached to GameObjects
        * One GameObject can have any number of components
        * Every "turn" (usually 1/60th of a second) all components are updated by the game.
        * Components can communicate using messages or call other bits of code
@@ -40,13 +40,13 @@ Unity Building Blocks
         * _Animation_ plays animations
         * _Collider_ is uses by the physics system to know the shape and mass of an object
   
-     * [Prefabs](glossary#prefab) are assemblies of gameObjects and components
+     * [Prefabs](glossary.md#prefab) are assemblies of gameObjects and components
        * Lets your store and replicate a complex setup
        * Changing a prefab once updates **all** copies of that prefab!
        * You can override prefab by making changes to one copy
          * **Tip:** Prefabs are ordinarily displayed in **blue text**. Prefabs that have been altered (or 'broken' in Unity slang) are **pink**.
        * Models and animations created in outside programs can be brought in to Unity as prefabs
-     * [Scenes](glossary#scene) are files containing a 3d setup of multiple prefabs and gameObjects
+     * [Scenes](glossary.md#scene) are files containing a 3d setup of multiple prefabs and gameObjects
        * In most games this is known as a 'map' or 'level'
        * Scenes can be loaded while the game is running (ie, "load the beach level") 
        * Scenes **can't** be unloaded as a unit! It's up to you to delete scene contents when you're done with them!
@@ -68,7 +68,7 @@ UI basics
    * **Game window**: where you see the world through the player's eyes 
 <br>![game](http://docs.unity3d.com/Documentation/Images/manual/GameView40-3.jpg)
    * **Hierarchy window**: Lists the contents of your world
-      * The nesting reflects [parent-child](glossary#parent) relationships among your pieces.
+      * The nesting reflects [parent-child](glossary.md#parent) relationships among your pieces.
 <br>![hierarchy](http://www.umingo.de/mydata/paper/mechs_and_tanks/images/ch3/map_hierarchy.png)
    * **Project window**: Lists all the resources in your project; your 'toolbox'.<br>
 ![projectWindow](http://docs.unity3d.com/Documentation/Images/manual/ImportingAssets-0.jpg)
@@ -92,7 +92,7 @@ Getting content into the game
    * The core of each project is the **Assets Folder**.  This is where all of your art and code will live 
 
 * What are "assets"?
-   * Assets are all the files that make up your unity project. They live in your [project folder](glossary#projectfolder).
+   * Assets are all the files that make up your unity project. They live in your [project folder](glossary.md#projectfolder).
    * Models & Animations (Maya, max, or any FBX file)
    * Textures (Photoshop, PNG, TIFF, TGA)
    * Shaders: the mini-programs that render 3d objects
@@ -161,4 +161,4 @@ Getting content into the game
 
 Exercise:
 ============
-We'll wrap up the class by importing some pre-made assets and assembling a (very) simple working bowling. Details [here](excersize-1-bowling-game)
+We'll wrap up the class by importing some pre-made assets and assembling a (very) simple working bowling. Details [here](excersize-1-bowling-game.md)

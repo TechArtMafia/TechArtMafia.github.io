@@ -19,8 +19,8 @@ Along the way also learn the basic survival skills that every game developer  ne
 We'll be programming in C#, so students will be more  comfortable and productive if they have at least basic programming experience. We'll cover elementary 3d math, so basic algebra and trigonometry is also  helpful.
 
 
-[Course Outline](course-outline)
+[Course Outline](course-outline.md)
 
-[Useful links](useful-links)
+[Useful links](useful-links.md)
 
-[Resources](resources)
+[Resources](resources.md)

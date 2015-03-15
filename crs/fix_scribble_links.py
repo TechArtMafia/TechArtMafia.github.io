@@ -1,6 +1,6 @@
 import re
 
-link = re.compile( "(\[.*\])(\()(.*)(\))")
+link = re.compile( "(\[[^\)]*\])(\()([^\)]*)(\))")
 url = re.compile("http.*", re.I)
 
 

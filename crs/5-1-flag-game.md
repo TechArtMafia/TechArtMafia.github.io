@@ -7,5 +7,5 @@ Bejewelled with flags
 * special bonuses (based on geography or color)
 
 
-[next](5-2)
+[next](5-2.md)
 

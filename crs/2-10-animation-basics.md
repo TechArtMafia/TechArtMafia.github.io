@@ -28,7 +28,7 @@ The interpolation is controlled by setting *tangents* at the key frames. A tange
 
 To set the tangents for a key, you can right click on it in the animation window and choose a tangent type. If the tangents are editable they show up as handles like those in Photoshop.
 
-[next](2-11-creating-an-animation.md)
+[next](2-11-creating-an-animation.md.md)
 
 
  

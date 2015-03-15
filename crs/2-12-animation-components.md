@@ -23,4 +23,4 @@
    * animations with mismatched length or features (no blending between walk and swim, or from stand to run)
 
 
-[excersize](emergency-last-minute-excersize)
+[excersize](emergency-last-minute-excersize.md)

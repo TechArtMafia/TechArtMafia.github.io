@@ -40,4 +40,4 @@ Each key has its own tangents.
 
 
 
-[back](2-10-animation-basics.md) [next](2-12-animation components.md)
+[back](2-10-animation-basics.md.md) [next](2-12-animation components.md.md)

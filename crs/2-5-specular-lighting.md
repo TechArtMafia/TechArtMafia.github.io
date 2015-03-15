@@ -1,10 +1,10 @@
 ### Specular illumination
 
-Lighting of shiny surfaces is known as [specular illumination](glossary#specular)  
+Lighting of shiny surfaces is known as [specular illumination](glossary.md#specular)  
 
 ![specteapot](http://www.reindelsoftware.com/Documents/Mapping/images/latitude_specular_teapot.gif)
 
-Specular lighting appears as 'highlights' or 'hot spots'.  Unlike diffuse lighting, the size and intensity of the highlight depends on the position of the viewer as well as the surface normal and the light. This causes the highlight to 'travel' across the surface of objects as cameras, objects or lights move. For this reason specular lighting cannot be [baked](glossary#bake).
+Specular lighting appears as 'highlights' or 'hot spots'.  Unlike diffuse lighting, the size and intensity of the highlight depends on the position of the viewer as well as the surface normal and the light. This causes the highlight to 'travel' across the surface of objects as cameras, objects or lights move. For this reason specular lighting cannot be [baked](glossary.md#bake).
 
 There are several different ways of computing specular. The simplest ("Phong") has a single control for the size of the highlight. Other techiques such as "Blinn" shading allow control over the sharpness and contrast of the highlight as well.  Specular is more expensive to calculate than diffuse lighting, so many games use it sparingly.
 
@@ -16,4 +16,4 @@ There are several different ways of computing specular. The simplest ("Phong") h
 
 Most specular materials in real life show white highlights. The main exception is metals such as gold, copper or bronze which show tinted highlights.
 
-[back](2-4-diffuse-lighting) [next](2-6-reflectivity)
+[back](2-4-diffuse-lighting.md) [next](2-6-reflectivity.md)
