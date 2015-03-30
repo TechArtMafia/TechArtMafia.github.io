@@ -5,7 +5,7 @@ This page is a list of common Unity terms.  It will be updated each week to cove
 
 Asset
 =======  
-All of the digital pieces which make up a game are known as 'assets'.  A texture map, a model file, or a file on disk that tells how much health your character begins the game with are all examples of assets. Unity stores assets in the [Project Folder](#projectfolder)
+All of the digital pieces which make up a game are known as 'assets'.  A texture map, a model file, or a file on disk that tells how much health your character begins the game with are all examples of assets. Unity stores assets in the [Project Folder](.#projectfolder)
 
 Bake
 =======
