@@ -13,7 +13,7 @@ Calculating and storing complex computations ahead of time is known as 'baking'.
 
 Bone
 ======= 
-The hierarchy of [transforms](glossary.md#transform) that make up a [skinned](glossary.md#skin) model are called bones.  Bones are usually animated outside of Unity but they can also be controlled by scripts.
+The hierarchy of [transforms](glossary.md#transform) that make up a [skinned](glossary.md#Skinning) model are called bones.  Bones are usually animated outside of Unity but they can also be controlled by scripts.
 
 Budget
 =======
@@ -25,7 +25,7 @@ Coordinates
 
 Collider
 ======= 
-By default, [gameObjects](glossary.md#gameobject) in Unity are visible but not tangible: they don't affect each other and aren't affected by gravity or other forces. A collider is a [component](glossary.md#component) which makes an object tangible to the physics system. Colliders are usually much simpler shapes than the objects they are attached to, which makes the physics calculations run faster.  
+By default, [gameObjects](glossary.md#gameobject) in Unity are visible but not tangible: they don't affect each other and aren't affected by gravity or other forces. A collider is a [component](glossary.md#Component) which makes an object tangible to the physics system. Colliders are usually much simpler shapes than the objects they are attached to, which makes the physics calculations run faster.  
 
 Component
 ======= 
