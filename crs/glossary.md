@@ -2,13 +2,7 @@ Glossary
 ========
 
 
-<script type='text/Javascript'>function showAlert() {
-    var country = "Fiji";
-    var city = "Suva";
-    alert('The city of ' + city + ' is located in ' + country + '.');
-}</script>
-
-<input type="button" value="Click Here" onClick="showAlert();">
+<link rel="stylesheet" type="text/css" href="./include_test.html">
 
 This page is a list of common Unity terms.  It will be updated each week to cover new ideas introduced in the lesson.
 
