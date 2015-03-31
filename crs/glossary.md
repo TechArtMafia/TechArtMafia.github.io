@@ -87,7 +87,7 @@ The direction which a 3D [polygon](glossary.md#polygon) faces is it's 'normal'. 
 
 Parent
 -------
-[Transforms](glossary.md#transform) can be linked so that one transform is relative to another, and moves when the other moves: for example, moving your shoulder causes your elbow to move, moving your elbow causes your wrist to move, and so on.  The transform which causes the other to move is known as the "parent", any transforms which are moved by a parent are "children".  A parent can have many children, but each child has only a single parent. We also refer to the act of linking transforms in this way as "parenting".  See also [local transform](glossary.md#localtransform) and [global transform](glossary.md#globaltransform).
+[Transforms](glossary.md#Transform) can be linked so that one transform is relative to another, and moves when the other moves: for example, moving your shoulder causes your elbow to move, moving your elbow causes your wrist to move, and so on.  The transform which causes the other to move is known as the "parent", any transforms which are moved by a parent are "children".  A parent can have many children, but each child has only a single parent. We also refer to the act of linking transforms in this way as "parenting".  See also [local transform](glossary.md#localtransform) and [global transform](glossary.md#globaltransform).
 
 Polygon
 -------
@@ -142,8 +142,7 @@ A [collider](glossary.md#collider) with the _IsTrigger_ checkbox turned on acts 
 
 Update Loop
 -------
-Several times a second, the game will tell all of the active [GameObjects](glossary.md#gameobject) and [components](glossary.md#component)to update themselves. This causes the scripts attach to each component to run their Update
-------- code, which can make objects move or take actions.  
+Several times a second, the game will tell all of the active [GameObjects](glossary.md#gameobject) and [components](glossary.md#component)to update themselves. This causes the scripts attach to each component to run their Update code, which can make objects move or take actions.  
 
 Vertex
 -------
