@@ -1,5 +1,5 @@
 Technical Artist||||
-----|----|----|----|----
+----|---|---|---|---
 **TASKS REQUIRED FOR PARTICULAR LEVEL**|**J**|**M**|**S**|**D**
 ||||
 **ROLE DESCRIPTION / ROLE SPECIFIC RESPONSIBILITIES:**||||
