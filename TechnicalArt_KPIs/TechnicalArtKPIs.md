@@ -1,4 +1,4 @@
-Technical Artist||||
+#Technical Artist||||
 ---|---|---|---|---
 **TASKS REQUIRED FOR PARTICULAR LEVEL**|**J**|**M**|**S**|**D**
 ||||
