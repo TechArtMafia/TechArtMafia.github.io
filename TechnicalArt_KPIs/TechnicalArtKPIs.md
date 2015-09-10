@@ -1,8 +1,8 @@
 Technical Artist||||
 ----|----|----|----|----
-TASKS REQUIRED FOR PARTICULAR LEVEL|J|M|S|D
+**TASKS REQUIRED FOR PARTICULAR LEVEL**|**J**|**M**|**S**|**D**
 ||||
-ROLE DESCRIPTION / ROLE SPECIFIC RESPONSIBILITIES:||||
+**ROLE DESCRIPTION / ROLE SPECIFIC RESPONSIBILITIES:**||||
 Provide documentation of art processes and assist in defining the art pipeline within the assigned project.|x|x|x|x
 Work with other team members to find ways to innovate in processes and improve quality standards.|x|x|x|x
 "May be required to have some “hands on” involvement developing and rendering artwork, modeling, animation, and texturing."|x|x|x|x
@@ -31,7 +31,7 @@ Assist with team appraisals/performance management|||x|x
 Be aware of potential risks to the project and bring to the attention of management.|||x|x
 Greater input in research and development of project assets.|||x|x
 Ensure personal work and team work is meeting documented standards.|||x|x
-ROLE SPECIFIC KPI'S||||
+**ROLE SPECIFIC KPI'S**||||
 Research and development ability|x|x|x|x
 Ability to communicate with artists and programmers|x|x|x|x
 Ability to invent/incorporate useful technologies|x|x|x|x
@@ -50,7 +50,7 @@ Knowledge of strengths as well as limitations of the latest consoles as it relat
 "Solid technical knowledge of best methods for best results in generating both 2D and 3D art, such as texture file formats and compression methods, modeling methods to achieve quality and performance, and rendering solutions."||x|x|x
 "Ability to advise on, research and explore a variety of graphics systems and middleware packages to determine both restrictions and capabilities."||x|x|x
 Work with Technical Art Directors and Senior Technical artists to identify ways to increase efficiencies in process and production pipelines and identify risks or flaws in proposed pipelines for the project to which you are assigned.||x|x|x
-EQUIVALENT EXPERIENCE & QUALIFICATIONS||||
+**EQUIVALENT EXPERIENCE & QUALIFICATIONS**||||
 "Tertiary education in art, design or technical discipline."|x|x|x|x
 1 or more years experience as a technical artist in a games company||x|x|x
 Experience developing for platform hardware architecture||x|x|x
